@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    color: deeppink;
+    background-color: hotpink;
+    width: 100%;
+    font-family:'Lucida Sans Regular';
+}
+nav a{
+    padding: 10px 15px;
+    color: white;
+    float: right;
+}
+nav a:hover{
+    background-color: palevioletred;
+    color: white;
+}
+.banner{
+    float: left;
+    color: beige;
+    padding: 10px 15px;
+    font-family: 'Times New Roman';
+}
